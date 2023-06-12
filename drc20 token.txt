@@ -1,0 +1,350 @@
+{
+"p": "drc-20",
+"op": "mint",
+"tick": "dank",
+"amt": "1"
+}
+
+
+bone
+
+{
+"p": "drc-20",
+"op": "mint",
+"tick": "bone",
+"amt": "1000"
+}
+
+ordi
+
+{
+"p": "drc-20",
+"op": "mint",
+"tick": "ordi",
+"amt": "1000"
+}
+
+4fud
+
+{
+"p": "drc-20",
+"op": "mint",
+"tick": "4fud",
+"amt": "44"
+}
+
+zish
+
+{
+"p": "drc-20",
+"op": "mint",
+"tick": "zish",
+"amt": "555"
+}
+
+dbtc
+
+{
+"p": "drc-20",
+"op": "mint",
+"tick": "dbtc",
+"amt": "10000"
+}
+
+punk
+
+{
+"p": "drc-20",
+"op": "mint",
+"tick": "punk",
+"amt": "1000"
+}
+
+
+1) Misu :
+{
+"p": "drc-20",
+"op": "mint",
+"tick": "misu",
+"amt": "1000"
+}
+
+2) Pepe : 
+{
+"p": "drc-20",
+"op": "mint",
+"tick": "PEPE",
+"amt": "1000"
+}
+
+3) Meme : {
+"p": “drc-20",
+"op": “mint”,
+"tick": “meme”,
+"amt”: "1"
+}
+
+4) Punk : { "p": "drc-20",
+"op": "mint",
+"tick": "punk",
+"amt": "1000"}
+
+5) Musk : {
+"p": "drc-20",
+"op": "mint",
+"tick": "musk",
+"amt": "10000000"
+}
+
+6) Piza : {
+"p": “drc-20",
+"op": “mint”,
+"tick": “piza”,
+"amt”: "1000"
+}
+
+7) Lady : {
+"p": “drc-20",
+"op": “mint”,
+"tick": “lady”,
+"amt”: "10000000”
+}
+
+8) DOGI : {
+"p": "drc-20",
+"op": "mint",
+"tick": “DOGI”,
+"amt": “5000”
+}
+
+9) Mldy : {
+"p": "drc-20",
+"op": "mint",
+"tick": "mldy",
+"amt": "1"
+}
+
+10) Shiba : {
+"p": "drc-20",
+"op": "mint",
+"tick": "shiba",
+"amt": "10000"
+}
+
+{ 
+  "p": "drc-20",
+  "op": "mint",
+  "tick": "dogewow",
+  "amt": "100"
+}
+
+
+{    
+"p": "drc-20",   
+"op": "mint",   
+"tick": "dpal",   
+"amt": "1000" 
+}
+
+{    
+"p": "drc-20",   
+"op": "mint",   
+"tick": "dgen",   
+"amt": "1" 
+}
+
+
+{
+  "p": "drc-20",
+  "op": "mint",
+  "tick": "dogi",
+  "amt": "1000"
+}
+
+
+{
+"p": “drc-20","op": “mint”,
+"tick": “piza”,
+"amt”: "1000"
+}
+
+
+{ 
+  "p": "drc-20", 
+  "op": "mint", 
+  "tick": "musk", 
+  "amt": "10000000" 
+}
+
+
+{ 
+"p": “drc-20",
+ "op": “mint”,
+ "tick": “meme”,
+ "amt”: "1"
+}
+
+
+
+{        
+"p": "drc-20",    
+"op": "mint",      
+"tick": "ladys",   
+"amt": "1000000000"  
+ }
+
+{ "p": "drc-20", "op": "mint", "tick": "punk", "amt": "1000" }
+
+cope
+{ "p": "drc-20", "op": "mint", "tick": "cope", "amt": "6780" }
+
+fiwb
+{ "p": "drc-20", "op": "mint", "tick": "fiwb", "amt": "50" }
+
+dbtc
+{ "p": "drc-20", "op": "mint", "tick": "dbtc", "amt": "10000" }
+
+mint
+{ "p": "drc-20", "op": "mint", "tick": "mint", "amt": "10000" }
+
+woof
+{ "p": "drc-20", "op": "mint", "tick": "woof", "amt": "1000" }
+
+brrr
+{ "p": "drc-20", "op": "mint", "tick": "brrr", "amt": "1000" }
+
+pump
+{ "p": "drc-20", "op": "mint", "tick": "pump", "amt": "100" }
+
+piza
+{ "p": "drc-20", "op": "mint", "tick": "piza", "amt": "1000" }
+
+rich
+{ "p": "drc-20", "op": "mint", "tick": "rich", "amt": "100" }
+
+nals
+{ "p": "drc-20", "op": "mint", "tick": "nals", "amt": "1000" }
+
+dpal
+{ "p": "drc-20", "op": "mint", "tick": "dpal", "amt": "27" }
+
+yolo
+{ "p": "drc-20", "op": "mint", "tick": "yolo", "amt": "1" }
+
+lens
+{ "p": "drc-20", "op": "mint", "tick": "lens", "amt": "10000" }
+
+baby
+{ "p": "drc-20", "op": "mint", "tick": "baby", "amt": "100" }
+
+snrb
+{ "p": "drc-20", "op": "mint", "tick": "snrb", "amt": "10000" }
+
+xpay
+{ "p": "drc-20", "op": "mint", "tick": "xpay", "amt": "10000" }
+
+aude
+{ "p": "drc-20", "op": "mint", "tick": "aude", "amt": "1" }
+
+
+mayc
+{ "p": "drc-20", "op": "mint", "tick": "mayc", "amt": "100" }
+
+doga
+{ "p": "drc-20", "op": "mint", "tick": "doga", "amt": "100" }
+
+cats
+{ "p": "drc-20", "op": "mint", "tick": "cats", "amt": "10" }
+xeon
+{ "p": "drc-20", "op": "mint", "tick": "xeon", "amt": "5000" }
+
+420x
+{ "p": "drc-20", "op": "mint", "tick": "420x", "amt": "1" }
+
+wiki
+{ "p": "drc-20", "op": "mint", "tick": "wiki", "amt": "1000" }
+
+
+york
+{ "p": "drc-20", "op": "mint", "tick": "york", "amt": "100000" }
+
+plsx
+{ "p": "drc-20", "op": "mint", "tick": "plsx", "amt": "1000" }
+
+goat
+{ "p": "drc-20", "op": "mint", "tick": "goat", "amt": "1000" }
+
+gpt4
+{ "p": "drc-20", "op": "mint", "tick": "gpt4", "amt": "1000" }
+
+bets
+{ "p": "drc-20", "op": "mint", "tick": "bets", "amt": "1000" }
+
+coin
+{ "p": "drc-20", "op": "mint", "tick": "coin", "amt": "1000" }
+
+king
+{ "p": "drc-20", "op": "mint", "tick": "king", "amt": "1000" }
+
+
+{ "p": "drc-20", "op": "mint", "tick": “chms”, "amt": “69420” }
+
+{ "p": "drc-20", "op": "mint", "tick": "ceo", "amt": "4761904" }
+
+
+{ "p": "drc-20", "op": "mint", "tick": "bull", "amt": "100" }
+
+{ "p": "drc-20", "op": "mint", "tick": "ermi", "amt": "1000" }
+
+
+{
+"p": "drc-20",
+"op": "mint",
+"tick": "love",
+"amt": "1000"
+}
+
+{ “p”: “drc-20”, “op”: “mint”, “tick”: “mldy”, “amt”: “1” }
+
+doga
+{ “p”: “drc-20”, “op”: “mint”, “tick”: “doga”, “amt”: “100” }
+
+toad
+{ “p”: “drc-20”, “op”: “mint”, “tick”: “toad”, “amt”: “333” }
+
+okex
+{ “p”: “drc-20”, “op”: “mint”, “tick”: “okex”, “amt”: “1000” }
+
+wolf
+{ “p”: “drc-20”, “op”: “mint”, “tick”: “wolf”, “amt”: “1000” }
+
+bank
+{ “p”: “drc-20”, “op”: “mint”, “tick”: “bank”, “amt”: “1000” }
+
+gold
+{ “p”: “drc-20”, “op”: “mint”, “tick”: “gold”, “amt”: “10000” }
+
+mask
+{ “p”: “drc-20”, “op”: “mint”, “tick”: “mask”, “amt”: “100” }
+
+pigs
+{ “p”: “drc-20”, “op”: “mint”, “tick”: “pigs”, “amt”: “1000” }
+
+mutz
+{ “p”: “drc-20”, “op”: “mint”, “tick”: “mutz”, “amt”: “1” }
+
+bark
+{ “p”: “drc-20”, “op”: “mint”, “tick”: “bark”, “amt”: “10” }
+
+ozzy
+{ “p”: “drc-20”, “op”: “mint”, “tick”: “ozzy”, “amt”: “1000” }
+
+mars
+{ “p”: “drc-20”, “op”: “mint”, “tick”: “mars”, “amt”: “10000” }
+
+{ 
+  "p": "drc-20",
+  "op": "transfer",
+  "tick": "blue",
+  "amt": "2000"
+}
